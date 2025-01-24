@@ -21,5 +21,5 @@ I'm Gediminas, ISTQB Certified Tester. With courses from CodeAcademy and Vilnius
 
 I'm always open to collaborating on exciting projects and exchanging ideas with fellow QA professionals. Feel free to reach out!
 
-Lnkedin: in/gediminas-druskis-2a388a88
-Email:   gediminas.druskis@gmail.com
+**Lnkedin:** [in/gediminas-druskis-2a388a88]
+**Email:**   [gediminas.druskis@gmail.com]
